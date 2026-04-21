@@ -51,3 +51,4 @@ docs/*.png
 
 # legacy migration scripts
 *.legacy
+.github/
