@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# database
+*.db
+*.db-shm
+*.db-wal
+
+# data files (CSV imports)
+docs/*.csv
+docs/*.png
+
+# legacy migration scripts
+*.legacy
